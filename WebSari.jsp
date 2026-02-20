@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
-    <p>Mi primera aplicación JSP</p>
+    <h2>Hola desde la web de Sara</h2>
+    <p>Este archivo está modificado</p>
 </body>
 </html>
